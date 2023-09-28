@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T17:48:57.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4q__alW1Xf6RmXAvgwE7" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T17:51:43.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nv9O1i64raR74Bct_lyq" version="22.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="956" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,12 @@
         <mxCell id="MhNCwW6L2EXGUqNy6FXT-15" value="Do you have a writing utensil?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MhNCwW6L2EXGUqNy6FXT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MhNCwW6L2EXGUqNy6FXT-16" target="MhNCwW6L2EXGUqNy6FXT-31">
+        <mxCell id="MhNCwW6L2EXGUqNy6FXT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MhNCwW6L2EXGUqNy6FXT-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhNCwW6L2EXGUqNy6FXT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MhNCwW6L2EXGUqNy6FXT-16" target="MhNCwW6L2EXGUqNy6FXT-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MhNCwW6L2EXGUqNy6FXT-16" value="Do you have a square stencil?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -69,20 +74,23 @@
         <mxCell id="MhNCwW6L2EXGUqNy6FXT-30" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="204" y="526" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MhNCwW6L2EXGUqNy6FXT-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="680" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="MhNCwW6L2EXGUqNy6FXT-32" value="Get a square stencil." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MhNCwW6L2EXGUqNy6FXT-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MhNCwW6L2EXGUqNy6FXT-32" target="MhNCwW6L2EXGUqNy6FXT-31">
+        <mxCell id="MhNCwW6L2EXGUqNy6FXT-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MhNCwW6L2EXGUqNy6FXT-32" target="MhNCwW6L2EXGUqNy6FXT-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="630" as="sourcePoint" />
-            <mxPoint x="450" y="580" as="targetPoint" />
+            <mxPoint x="290" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MhNCwW6L2EXGUqNy6FXT-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="204" y="646" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNCwW6L2EXGUqNy6FXT-40" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="571" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNCwW6L2EXGUqNy6FXT-44" value="Trace along the stencil onto the paper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="201" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
